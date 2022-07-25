@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Artemisa"@spa-Latn ;
-    wdata:q7200235 "CU01" ;
+    wdata:Q7200235 "CU01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -60,7 +60,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Las Tunas"@spa-Latn ;
-    wdata:q7200235 "CU10" ;
+    wdata:Q7200235 "CU10" ;
 .
 
 <urn:mdciii:1603:16:192:1:11>
@@ -71,7 +71,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Matanzas"@spa-Latn ;
-    wdata:q7200235 "CU11" ;
+    wdata:Q7200235 "CU11" ;
 .
 
 <urn:mdciii:1603:16:192:1:12>
@@ -82,7 +82,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Mayabeque"@spa-Latn ;
-    wdata:q7200235 "CU12" ;
+    wdata:Q7200235 "CU12" ;
 .
 
 <urn:mdciii:1603:16:192:1:13>
@@ -93,7 +93,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Pinar del Río"@spa-Latn ;
-    wdata:q7200235 "CU13" ;
+    wdata:Q7200235 "CU13" ;
 .
 
 <urn:mdciii:1603:16:192:1:14>
@@ -104,7 +104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Sancti Spíritus"@spa-Latn ;
-    wdata:q7200235 "CU14" ;
+    wdata:Q7200235 "CU14" ;
 .
 
 <urn:mdciii:1603:16:192:1:15>
@@ -115,7 +115,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Santiago de Cuba"@spa-Latn ;
-    wdata:q7200235 "CU15" ;
+    wdata:Q7200235 "CU15" ;
 .
 
 <urn:mdciii:1603:16:192:1:16>
@@ -126,7 +126,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Villa Clara"@spa-Latn ;
-    wdata:q7200235 "CU16" ;
+    wdata:Q7200235 "CU16" ;
 .
 
 <urn:mdciii:1603:16:192:1:2>
@@ -137,7 +137,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Camagüey"@spa-Latn ;
-    wdata:q7200235 "CU02" ;
+    wdata:Q7200235 "CU02" ;
 .
 
 <urn:mdciii:1603:16:192:1:3>
@@ -148,7 +148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Ciego de Ávila"@spa-Latn ;
-    wdata:q7200235 "CU03" ;
+    wdata:Q7200235 "CU03" ;
 .
 
 <urn:mdciii:1603:16:192:1:4>
@@ -159,7 +159,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Cienfuegos"@spa-Latn ;
-    wdata:q7200235 "CU04" ;
+    wdata:Q7200235 "CU04" ;
 .
 
 <urn:mdciii:1603:16:192:1:5>
@@ -170,7 +170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Granma"@spa-Latn ;
-    wdata:q7200235 "CU05" ;
+    wdata:Q7200235 "CU05" ;
 .
 
 <urn:mdciii:1603:16:192:1:6>
@@ -181,7 +181,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Guantánamo"@spa-Latn ;
-    wdata:q7200235 "CU06" ;
+    wdata:Q7200235 "CU06" ;
 .
 
 <urn:mdciii:1603:16:192:1:7>
@@ -192,7 +192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Holguín"@spa-Latn ;
-    wdata:q7200235 "CU07" ;
+    wdata:Q7200235 "CU07" ;
 .
 
 <urn:mdciii:1603:16:192:1:8>
@@ -203,7 +203,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "Isla de la Juventud"@spa-Latn ;
-    wdata:q7200235 "CU08" ;
+    wdata:Q7200235 "CU08" ;
 .
 
 <urn:mdciii:1603:16:192:1:9>
@@ -214,6 +214,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:192:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:192:0> ;
     skos:prefLabel "La Habana"@spa-Latn ;
-    wdata:q7200235 "CU09" ;
+    wdata:Q7200235 "CU09" ;
 .
 
